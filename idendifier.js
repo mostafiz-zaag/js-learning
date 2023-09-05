@@ -16,4 +16,5 @@ class name {
     #priv = "value"; // private propperty
 }
 
+// label indentefire
 label1 : console.log("This is label");
